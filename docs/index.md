@@ -1,4 +1,6 @@
-# 3 Big Waves Research Library
+# 3 Big Waves Research
+
+Welcome to the research library.
 
 Browse by category:
 
@@ -6,4 +8,3 @@ Browse by category:
 - [Crypto](./Crypto/)
 - [Finance](./Finance/)
 
-> PDFs and notes live inside each folder. We’ll keep this list updated as new papers are added.
